@@ -8,7 +8,7 @@ from features import build_model_frame
 from risk_rules import label_risk, score_transaction
 
 
-DATA_DIR = Path(__file__).resolve().parents[1] / "data"
+DATA_DIR = Path(__file__).resolve().parent
 
 
 def load_inputs() -> tuple[pd.DataFrame, pd.DataFrame, pd.DataFrame]:
