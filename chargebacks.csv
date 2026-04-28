@@ -1,0 +1,9 @@
+transaction_id,chargeback_date,chargeback_reason,loss_amount_usd
+50003,2026-03-15,card_not_present,1250
+50006,2026-03-15,card_not_present,399.99
+50008,2026-03-15,card_not_present,620
+50011,2026-03-15,card_not_present,1400
+50013,2026-03-15,fraud_claim,150
+50014,2026-03-15,fraud_claim,49.99
+50015,2026-03-15,card_not_present,910
+50019,2026-03-15,fraud_claim,75

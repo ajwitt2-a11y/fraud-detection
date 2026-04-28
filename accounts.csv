@@ -1,0 +1,13 @@
+account_id,customer_name,country,signup_date,kyc_level,account_age_days,prior_chargebacks,is_vip
+1001,Ava Patel,US,2022-03-02,full,720,0,Y
+1002,Liam Johnson,US,2023-04-03,full,430,1,N
+1003,Mia Chen,US,2024-05-04,basic,85,0,N
+1004,Noah Davis,CA,2021-06-05,full,60,2,N
+1005,Sophia Garcia,GB,2022-07-06,full,900,0,Y
+1006,Ethan Brown,NG,2023-08-07,basic,12,3,N
+1007,Isabella Lee,BR,2024-09-08,basic,44,1,N
+1008,Mason Wilson,IN,2021-01-09,basic,31,0,N
+1009,Amelia Martinez,US,2022-02-10,full,200,2,Y
+1010,Logan Hall,DE,2023-03-11,full,365,0,N
+1011,Harper Allen,FR,2024-04-12,basic,18,1,N
+1012,James Young,MX,2021-05-13,full,140,0,N
